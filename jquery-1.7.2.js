@@ -12,6 +12,8 @@
  * Released under the MIT, BSD, and GPL Licenses.
  *
  * Date: Wed Mar 21 12:46:34 2012 -0700
+ 
+ i also edit this page how to do 
  */
 (function( window, undefined ) {
 
