@@ -14,6 +14,7 @@
  * Date: Wed Mar 21 12:46:34 2012 -0700bbbbbbbbbbbbbbb
  
  i also edit this page how to do 
+ qinqiu is qinqiu or who
  */
 (function( window, undefined ) {
 
