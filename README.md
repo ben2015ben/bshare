@@ -1,4 +1,0 @@
-bshare
-======
-
-bshare integration
